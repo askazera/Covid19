@@ -1,5 +1,8 @@
 # Covid-19 World Data Analisys
 
+[View Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiMTllNjA2MDgtODYwMC00YTgyLTg0YzAtZDI1MGE1ZjU1MzM2IiwidCI6IjczY2M1ZDNlLWY3MmEtNGM0NS1iYjFhLTZhOWJhNjFjYTZkYiJ9)
+
+
 This is a project carried out in order to understand the general panorama of cases and deaths from covid-19 in the world. Furthermore, with this data analysis study it was possible to measure the impact of the vaccine on the world, in addition to its importance in preventing deaths.
 
 Database source mainteined by: [_Our World in Data_](https://ourworldindata.org/coronavirus).
