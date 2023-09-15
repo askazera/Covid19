@@ -1,4 +1,5 @@
 # Covid-19 World Data Analisys
+<p align="center"><img src="https://media.licdn.com/dms/image/D4D22AQH-sU-KpPr0kA/feedshare-shrink_1280/0/1694809098547?e=1697673600&v=beta&t=bOKyRbJEQvqmA-KiNEBM1_XQm_TbTqqhk1fW-HuxWck" width="900" height="600"/> </p>
 
 [View Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiM2ZlZGRlZDItZjhiNi00MjQxLTljOGMtNDA3OTNmMGVkMjRjIiwidCI6IjczY2M1ZDNlLWY3MmEtNGM0NS1iYjFhLTZhOWJhNjFjYTZkYiJ9)
 
