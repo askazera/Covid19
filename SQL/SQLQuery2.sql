@@ -104,6 +104,14 @@ WHERE continent <> 'NaN' AND continent <> '' AND continent IS NOT NULL--retirar 
 GROUP BY location
 ORDER BY MaxTotalDeaths DESC
 
+Select location, SUM(cast(new_cases as int)) as TotalDeathCount
+From PortfolioProject..sheet
+--Where location like '%states%'
+Where continent is null 
+and location not in ('World', 'European Union', 'International','High income', 'Lower middle income','Upper middle income','Low income' )
+Group by location
+order by TotalDeathCount desc
+
 -- Total deaths by continent
 SELECT continent, MAX(CAST(total_deaths AS INT)) AS TotalDeaths
 FROM PortfolioProject..deaths
